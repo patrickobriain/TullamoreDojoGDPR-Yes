@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "CoderDojo Tullamore - GDPR Consent: Yes",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 20,
@@ -31,7 +31,9 @@
         "isScrollToTopButton": false
       }
     },
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "favicon": "@PROJECT_PATH@/assets/images/cdtlogosharper-122x132-122x132.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
